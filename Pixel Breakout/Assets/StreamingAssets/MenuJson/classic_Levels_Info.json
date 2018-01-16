@@ -1,0 +1,13 @@
+{
+  "Items": [
+    {
+      "levelname": "level 1",
+      "startinghealth":  0,
+      "pillamount": 0,
+      "rewardpillindex1": 0,
+      "rewardpillindex2": 0,
+      "rewardpillindex3": 0,
+      "rewardpillindex4": 0
+    }
+  ]
+}

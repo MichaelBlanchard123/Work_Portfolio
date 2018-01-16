@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Breakout Game Redone", "Breakout Game Redone.csproj", "{08C1BDA0-ED62-69E8-4D73-FBFE5074289E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{08C1BDA0-ED62-69E8-4D73-FBFE5074289E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08C1BDA0-ED62-69E8-4D73-FBFE5074289E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08C1BDA0-ED62-69E8-4D73-FBFE5074289E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08C1BDA0-ED62-69E8-4D73-FBFE5074289E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
